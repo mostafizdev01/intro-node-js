@@ -41,3 +41,6 @@ fs.readFile('./hello.txt', {encoding: 'utf-8'}, (err, data)=>{  // crating the r
     console.log('This is your data ✅', data);
     
 })
+
+
+
